@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm devcoderavi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
+<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devcoderavi&label=Profile%20views&color=0e75b6&style=flat" alt="devcoderavi" /> </p>
 
